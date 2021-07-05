@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.vosykha.viewanimation">
+
+    <application>
+        <activity
+            android:name="com.vosykha.viewanimation.CommonViewAnimationActivity"
+            android:label="Common ViewAnimation">
+        </activity>
+        <activity android:name="com.vosykha.viewanimation.PopupWindowViewAnimationActivity"
+            android:label="ViewAnimation in PopupWindow">
+        </activity>
+        <activity android:name="com.vosykha.viewanimation.ViewAnimationActivity"
+            android:label="@string/module_name">
+        </activity>
+        <activity android:name="com.vosykha.viewanimation.ListViewAnimationActivity"
+            android:label="Layout Animation">
+        </activity>
+    </application>
+
+</manifest>

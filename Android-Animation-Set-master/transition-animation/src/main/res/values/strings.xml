@@ -1,0 +1,18 @@
+<resources>
+    <string name="module_transition">Transition Animation</string>
+    <string name="tip">Demo Transition Set</string>
+
+    <string name="text_no_love">
+        Em, ngày em đánh rơi nụ cười vào anh
+Có nghĩ sau này em sẽ chờ
+Và vô tư cho đi hết những ngây thơ
+Anh, một người hát mãi những điều mong manh
+Lang thang tìm niềm vui đã lỡ
+Chẳng buồn dặn lòng quên hết những chơ vơ
+
+ </string>
+    <string name="share_element_imageview">share element imageview</string>
+    <string name="share_element_header">share element header</string>
+    <string name="share_element_tv_info">share element tv info</string>
+
+</resources>

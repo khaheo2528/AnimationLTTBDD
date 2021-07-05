@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Reveal Animation</string>
+    <string name="title_activity_reveal_animation">RevealAnimationActivity</string>
+    <string name="large_text">
+        Phân hiệu Trường Đại học Giao thông Vận tải tại TP. Hồ Chí Minh được thành lập theo quyết định số 2419/QĐ-BGDĐT ngày 15 tháng 07 năm 2016 của Bộ trưởng Bộ Giáo dục và Đào tạo trên nền tảng Cơ sở II (được thành lập theo Quyết định số 139/TCCB ngày 27/04/1990 của Bộ Giáo dục và Đào tạo). Phân hiệu là một bộ phận cấu thành quan trọng của Trường Đại học Giao thông Vận tải trực thuộc Bộ Giáo dục và Đào tạo. Trường tọa lạc trên diện tích hơn 16ha tại Quận 9, Thành phố Hồ Chí Minh, quy mô đào tạo trên 7000 sinh viên và học viên các hệ.
+        \n
+        Các ngành tổ chức đào tạo tại Phân hiệu Trường Đại học Giao thông Vận tải tại TP. Hồ Chí Minh gồm: Kỹ thuật Xây dựng công trình giao thông, Kỹ thuật Cơ khí, Kỹ thuật Xây dựng, Kỹ thuật Điện - Điện tử, Kỹ thuật môi trường, Công nghệ thông tin, Kinh tế Vận tải, Kế toán, Kinh tế xây dựng, Quản trị kinh doanh, Kinh tế, Khai thác vận tải, Kiến trúc với hơn 60 chuyên ngành đào tạo khác nhau. Bên cạnh loại hình đào tạo Đại học chính quy, Phân hiệu còn có nhiều loại hình đào tạo khác nhằm đáp ứng nhu cầu của xã hội và giúp người học có được sự thuận lợi, chủ động tối đa về thời gian theo học như: Vừa làm Vừa học, Liên thông, Văn bằng 2.
+        \n
+        Đào tạo ở bậc sau đại học cũng luôn được Nhà trường quan tâm và chú trọng đầu tư phát triển. Hiện nay, tại Phân hiệu đang đào tạo 11 ngành bậc cao học (Kỹ thuật xây dựng công trình giao thông, Kỹ thuật Cơ sở hạ tầng, Kỹ thuật xây dựng công trình dân dụng và công nghiệp, Kỹ thuật cơ khí dộng lực, Kỹ thuật điện tử, Kỹ thuật Viễn thông, Kỹ thuật điều khiển và tự động hóa, Quản lý xây dựng, Tổ chức và quản lý vận tải, Quản trị kinh doanh, Công nghệ thông tin) với quy mô hàng năm hơn 200 học viên cao học và nghiên cứu sinh theo học.
+        \n
+        Đội ngũ cán bộ giảng viên và cơ sở vật chất của Phân hiệu cũng luôn được quan tâm và phát triển. Tính đến tháng 05/2020 Phân hiệu có tổng số 199 cán bộ, viên chức và người lao động, trong đó có 139 Giảng viên với 03 Phó Giáo sư, 24 Tiến sĩ, 92 Thạc sĩ, có 24 giảng viên đang làm NCS, 08 giảng viên đang theo học Cao học, số giảng viên có trình độ trên đại học là gần 84%, nhiều giảng viên đang theo học chương trình đào tạo sau đại học trong nước và quốc tế. Hàng năm, các sinh viên tốt nghiệp giỏi, xuất sắc được Nhà trường tuyển chọn giữ lại làm giảng viên, nhiều giảng viên trẻ được cử đi học tập, nâng cao trình độ ở bậc sau đại học tại các trường đại học uy tín trên thế giới.
+        \n
+        Trang thiết bị thực tập, thực hành, thí nghiệm của sinh viên luôn được Nhà trường chú trọng đầu tư trang bị, nhiều sách tham khảo và giào trình tại thư viện luôn được cập nhật bổ sung để sinh viên có thể tiếp cận với nhiều tri thức mới. Các giảng đường thường xuyên được cải tạo và xây dựng thêm mới để đảm bảo cho các sinh viên ngoài việc học trên lớp theo lịch học còn có không gian tự học lý tưởng. Ký túc xá được đầu tư hiện  đại quay mô, với 1 nhà 7 tầng sức chứa 1000 sinh viên, bên cạnh đó có 8 dãy nhà nội trú cấp bốn với gần 1000 sinh viên. Ký túc xá có khuôn viên rộng trên 12ha, đầy đủ cá sân chơi thể thao, phòng tập GYM, sân bóng cỏ nhân tạo và các dịch vụ phong phú đáp ứng tối đa nhu cầu ăn ở lưu trú cho sinh viên
+
+
+    </string>
+    <string name="action_settings">Settings</string>
+</resources>

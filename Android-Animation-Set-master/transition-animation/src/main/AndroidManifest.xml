@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.vosykha.transitionanimation">
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <application>
+        <activity
+            android:name="com.vosykha.transitionanimation.TransitionAnimationActivity"
+            android:label="@string/module_transition"/>
+        <activity
+            android:name="com.vosykha.transitionanimation.ShareElementsActivity"
+            android:label="Share Elements"/>
+        <activity
+            android:name="com.vosykha.transitionanimation.TransitionAnimationBySlideActivity"
+            android:label="Transition by Slide"/>
+        <activity
+            android:name="com.vosykha.transitionanimation.TransitionAnimationByExplodeActivity"
+            android:label="Transition by Explode"/>
+    </application>
+
+</manifest>
